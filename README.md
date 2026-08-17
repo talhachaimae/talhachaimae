@@ -4,8 +4,8 @@
 
 > *Je transforme des applications existantes en solutions modernes, fiables et évolutives, de la migration legacy au développement d'API et d'interfaces web.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://linkedin.com/in/votreprofil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=fff)](mailto:votre-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/chaimae-talha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=fff)](mailto:talhachaima.tt@gmail.com.com)
 
 ---
 
@@ -172,8 +172,8 @@ Worked on features related to accounting exercises, balance management, financia
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votre_nom&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=talhachaimae&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhachaimae&layout=compact&theme=transparent" height="165"/>
 </p>
 
 ---
@@ -183,7 +183,7 @@ Worked on features related to accounting exercises, balance management, financia
 I'm always interested in discussing **software development, architecture, Java, AI, new technologies and interesting projects**.
 
 <p>
-  <a href="https://linkedin.com/in/votreprofil">
+  <a href="(https://www.linkedin.com/in/chaimae-talha/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
