@@ -1,28 +1,30 @@
-# 👋 Bonjour, je suis Chaimae Talha
+# 👋 Hi, I'm Chaimae Talha
 
-### 💻 Ingénieure Logicielle | Java · Spring Boot · Full Stack
+### 💻 Software Engineer | Java · Spring Boot · Full Stack Development
 
-> *Je transforme des applications existantes en solutions modernes, fiables et évolutives, de la migration legacy au développement d'API et d'interfaces web.*
+> *I build and modernize software applications, from legacy system migration to scalable backend services and modern web interfaces.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/chaimae-talha)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=fff)](mailto:talhachaima.tt@gmail.com.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/chaimae-talha/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=fff)](mailto:talhachaima.tt@gmail.com)
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 About Me
 
-Je suis **Ingénieure en Informatique et Réseaux**, diplômée de l'**EMSI**, avec une spécialisation **MIAGE** et une orientation développement logiciel.
+I am a **Software Engineer** with a State Engineering Degree in **Computer Science and Networks – MIAGE**, from **EMSI**.
 
-Actuellement **Ingénieure Logicielle chez JAAG Advisory**, je travaille sur différents projets de développement et de modernisation d'applications, notamment dans le domaine financier et comptable.
+Currently working at **JAAG Advisory**, I contribute to software development and modernization projects, particularly in the **financial and accounting domain**.
 
-J'interviens aussi bien sur le **backend** que sur le **frontend**, avec un intérêt particulier pour **Java / Spring Boot**, l'architecture logicielle et la modernisation des applications legacy.
+My experience covers both **backend and frontend development**, with a strong focus on **Java, Spring Boot, .NET, Vue.js, REST APIs and SQL Server**. I also work on legacy application migration, business logic implementation, testing and software quality.
 
-* 🔭 **Actuellement :** développement et modernisation d'applications financières et comptables
-* 🚀 **Focus :** Java, Spring Boot, API REST et architecture logicielle
-* 🌱 **J'explore :** Design Patterns, tests automatisés, Clean Architecture et IA
-* 🧩 **Expérience :** migration d'applications legacy vers des architectures modernes
-* 🎯 **Objectif :** évoluer vers un profil **Full Stack Software Engineer**, puis progressivement vers des responsabilités de **Chef de Projet**
-* 💡 **J'aime :** résoudre des problèmes techniques, améliorer le code existant et apprendre de nouvelles technologies
+I enjoy solving technical challenges, understanding complex systems and continuously improving the way software is designed and developed.
+
+* 🔭 **Currently working on:** Financial and accounting software solutions
+* 🚀 **Main focus:** Java, Spring Boot, REST APIs and software architecture
+* 🧩 **Experience:** Legacy application modernization and migration
+* 🧪 **Practicing:** Unit testing, code quality and clean development practices
+* 🌱 **Currently exploring:** Design Patterns, software architecture and AI
+* 🎯 **Career goal:** Grow as a Full Stack Software Engineer and progressively take on technical and project leadership responsibilities
 
 ---
 
@@ -77,77 +79,92 @@ J'interviens aussi bien sur le **backend** que sur le **frontend**, avec un int�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
 
-**Artificial Intelligence · Financial Data Analysis · Data Processing**
+**AI · Financial Data Analysis · Data Processing**
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer · JAAG Advisory, Casablanca
+### Software Engineer · JAAG Advisory
 
-*June 2025 – Present*
+**Casablanca, Morocco · June 2025 – Present**
 
-Working on software development and modernization projects, particularly in the financial and accounting domain.
+Working on software development and modernization projects, mainly within the financial and accounting domain.
 
-* Developed backend services using **Java / Spring Boot**
-* Developed and maintained **REST APIs**
-* Built frontend features with **Vue.js / Vue 3**
-* Worked on **.NET / ASP.NET Core** applications
-* Contributed to the migration of **legacy applications** towards modern architectures
-* Implemented business and accounting rules
+#### 🏦 Financial & Accounting Platform
+
+* Developed backend services using **Java and Spring Boot**
+* Developed and integrated **REST APIs**
+* Implemented complex financial and accounting business rules
+* Developed frontend features using **Vue.js / Vue 3**
 * Worked with **SQL Server** and database migrations
+* Implemented data validation and processing workflows
 * Developed unit tests using **JUnit and Mockito**
 * Used **Git, Maven and SonarQube** throughout the development lifecycle
-* Contributed to projects involving **Python and Artificial Intelligence**
-* Participated in debugging, code reviews and technical discussions
 
-### Software Engineering Projects · JAAG Advisory
+#### 🔄 Legacy Application Modernization
 
-**AI-Based Financial Analysis System**
+* Contributed to the modernization of **legacy applications**
+* Worked with **VB6, .NET and ASP.NET Core**
+* Participated in the progressive migration towards modern software architectures
+* Worked on backend services, business logic and data management
+* Contributed to debugging, integration and technical improvements
 
-Contributed to the development of a financial analysis system involving **Java, Python and Artificial Intelligence**, with a focus on processing and analysing financial data.
+#### 🤖 AI-Based Financial Analysis
 
-**Legacy Application Modernization**
-
-Contributed to the migration and modernization of legacy applications, progressively moving from older technologies towards modern backend architectures.
-
-**Financial & Accounting Platform**
-
-Worked on features related to accounting exercises, balance management, financial data processing, validations and business rules using **Spring Boot, Vue.js and SQL Server**.
+* Contributed to a financial analysis system involving **Java, Python and AI**
+* Worked on financial data processing and analysis
+* Contributed to the integration of software components supporting financial analysis workflows
 
 ---
 
 ## 🎓 Education
 
-### 🎓 State Engineering Degree in Computer Science & Networks — MIAGE
+### State Engineering Degree in Computer Science & Networks — MIAGE
 
-**EMSI · Casablanca**
-*2022 – 2024*
+**EMSI · Casablanca, Morocco**
+**2022 – 2024**
 
-### 🎓 Bachelor's Degree in Mathematics & Computer Science
+### Bachelor's Degree in Mathematics & Computer Science
 
-*2018 – 2021*
+**2018 – 2021**
 
 ---
 
 ## 📌 Featured Projects
 
-| Project                           | Description                                                                     |
-| --------------------------------- | ------------------------------------------------------------------------------- |
-| **Financial Management Platform** | Financial and accounting platform built with Spring Boot, Vue.js and SQL Server |
-| **Legacy Application Migration**  | Progressive modernization of legacy applications towards modern architectures   |
-| **AI Financial Analysis System**  | Financial data analysis system using Java, Python and AI                        |
-| **Accounting Balance Management** | Processing, validation and management of accounting balance data                |
+### 💰 Financial & Accounting Platform
+
+A web-based financial and accounting platform designed to manage financial data, accounting exercises and business processes.
+
+**Technologies:** Java · Spring Boot · Vue.js · SQL Server
 
 ---
+
+### 🔄 Legacy Application Migration
+
+Progressive modernization of legacy applications by migrating existing functionality towards modern software architectures.
+
+**Technologies:** VB6 · .NET · ASP.NET Core · Java · Spring Boot · SQL Server
+
+---
+
+### 🤖 AI Financial Analysis System
+
+A financial analysis solution combining software development, data processing and Artificial Intelligence.
+
+**Technologies:** Java · Python · AI · Financial Data
+
+---
+
 
 ## 🧠 Architecture & Development
 
 <p>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge" alt="Design Patterns"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Legacy_Migration-000000?style=for-the-badge" alt="Legacy Migration"/>
 </p>
 
 ---
@@ -156,14 +173,14 @@ Worked on features related to accounting exercises, balance management, financia
 
 * ☕ Advanced **Java & Spring Boot**
 * 🏗️ **Software Architecture & Design Patterns**
-* 🧪 **Unit Testing & Test-Driven Development**
+* 🧪 **Unit Testing & Code Quality**
 * 🤖 **Artificial Intelligence & Python**
 * 🚀 **DevOps & CI/CD**
-* 👥 **Project Management & Team Leadership**
+* 👥 **Project Management & Technical Leadership**
 
 ---
 
-## 💬 Ask me about
+## 💬 Ask Me About
 
 **Java · Spring Boot · Backend Development · Full Stack Development · Legacy Migration · REST APIs · Vue.js · Software Architecture · Financial Applications**
 
@@ -180,16 +197,19 @@ Worked on features related to accounting exercises, balance management, financia
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing **software development, architecture, Java, AI, new technologies and interesting projects**.
+I'm always open to connecting with developers, engineers and technology professionals to discuss **software development, architecture, Java, AI and interesting projects**.
 
 <p>
-  <a href="(https://www.linkedin.com/in/chaimae-talha/)">
+  <a href="https://www.linkedin.com/in/chaimae-talha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:talhachaima.tt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ Building, learning and improving — one project at a time.</i>
+  <i>Building. Learning. Improving.</i>
 </p>
