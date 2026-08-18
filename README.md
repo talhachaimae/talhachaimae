@@ -186,14 +186,6 @@ A financial analysis solution combining software development, data processing an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhachaimae&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhachaimae&layout=compact&theme=transparent" height="165"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
